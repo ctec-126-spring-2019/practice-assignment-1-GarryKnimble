@@ -4,4 +4,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #EEEEEE;
+}
+
+header {
+    background-color: #084C61;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 50px;
+    border-bottom: solid 4px #E39774;
+}
+
+.content {
+    background-color: #FFFFFF;
+    padding: 40px;
 }
